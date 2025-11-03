@@ -10,6 +10,7 @@
 - **Checkpoint Materials**
   - [Checkpoint Ready Guide](checkpoint-ready.md)
   - [Week 3 Summary](checkpoint-summary.md)
+  - [Meeting Summary - Nov 3](meeting-summary-nov3.md)
 
 - **Competitive Intelligence**
   - [All 10 Competitors Overview](competitors-overview.md)
