@@ -16,5 +16,6 @@
   - [Market Analysis Synthesis](market-analysis.md)
 
 - **Content & Strategy**
+  - [3-Month Content Roadmap](3-month-content-roadmap.md)
   - [AI Content Examples](ai-content-examples.md)
   - [Ideal Client Profile](ideal-client-profile.md)
