@@ -1,0 +1,3 @@
+# Guides
+
+Sample guides content.
