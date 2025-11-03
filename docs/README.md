@@ -48,6 +48,22 @@ This week we delivered **four major strategic systems** that transform CPL's mar
 
 **Expected Impact:** Top 3 rankings for 10+ keywords within 90 days
 
+### Analytics Baseline Established
+**Current website performance measured - ready for before/after comparison:**
+- **Real organic traffic:** ~1,000-1,200 sessions/month (after bot filtering)
+- ⚠️ **Bot traffic issue:** 72% direct traffic inflated by crawlers (needs filtering)
+- ⚠️ **No Search Console:** Cannot measure keyword rankings or search visibility yet
+- ✅ **Homepage engagement:** Strong entry point (49% of sessions)
+- ⚠️ **404 errors:** 69 sessions affected (broken links need fixing)
+
+**Week 0 Pre-Implementation Requirements:**
+- Google Search Console setup (Priority #0 - MUST complete first)
+- Bot traffic filtering (clean data for accurate measurement)
+- 404 error fixes (user experience + SEO signal)
+- Baseline metrics documented (measure SEO impact)
+
+**Measurement Capability:** Once Week 0 complete, we can track keyword rankings, search visibility, and true SEO impact
+
 ---
 
 ## 🎯 CPL's Competitive Positioning
@@ -73,10 +89,11 @@ Use the sidebar to explore:
 
 ## 🚀 Week 4 Priorities
 
-1. **SEO Foundation Implementation** (5-7 days) - Schema markup, meta descriptions, keyword optimization
-2. **Battle Cards Creation** (5 days) - One comprehensive card per major competitor
-3. **Video Content Launch** - Andrew's first 3 videos
-4. **Partner LinkedIn Activation** - Personal brand strategy for each partner
+1. **Week 0: Pre-Implementation Setup** (3-4 days) - Google Search Console, bot filtering, 404 fixes - **MUST COMPLETE FIRST**
+2. **SEO Foundation Implementation** (5-7 days) - Schema markup, meta descriptions, keyword optimization
+3. **Battle Cards Creation** (5 days) - One comprehensive card per major competitor
+4. **Video Content Launch** - Andrew's first 3 videos
+5. **Partner LinkedIn Activation** - Personal brand strategy for each partner
 
 ---
 

@@ -21,5 +21,6 @@
   - [Ideal Client Profile](ideal-client-profile.md)
 
 - **Website Optimization**
+  - [Analytics Baseline Report](website-analytics-baseline.md)
   - [SEO Analysis & Audit](website-seo-analysis.md)
   - [SEO Implementation Plan](seo-implementation-plan.md)
