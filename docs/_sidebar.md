@@ -19,3 +19,7 @@
   - [3-Month Content Roadmap](3-month-content-roadmap.md)
   - [AI Content Examples](ai-content-examples.md)
   - [Ideal Client Profile](ideal-client-profile.md)
+
+- **Website Optimization**
+  - [SEO Analysis & Audit](website-seo-analysis.md)
+  - [SEO Implementation Plan](seo-implementation-plan.md)
