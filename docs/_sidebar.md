@@ -1,6 +1,12 @@
 - **Home**
   - [Overview](README.md)
 
+- **Brand Architecture**
+  - [Overview & Summary](brand-architecture-overview.md)
+  - [Messaging Framework](messaging-framework.md)
+  - [Voice & Tone Guide](voice-and-tone-guide.md)
+  - [Architecture Framework](brand-architecture-framework.md)
+
 - **Checkpoint Materials**
   - [Checkpoint Ready Guide](checkpoint-ready.md)
   - [Week 3 Summary](checkpoint-summary.md)
