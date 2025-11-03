@@ -1,3 +1,0 @@
-# Reference
-
-Sample reference content.

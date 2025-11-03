@@ -1,11 +1,14 @@
 - **Home**
   - [Overview](/README)
 
-- **Introduction**
-  - [Intro](/01-intro)
+- **Checkpoint Materials**
+  - [Checkpoint Ready Guide](/checkpoint-ready)
+  - [Week 3 Summary](/checkpoint-summary)
 
-- **Guides**
-  - [Guides](/02-guides)
+- **Competitive Intelligence**
+  - [All 10 Competitors Overview](/competitors-overview)
+  - [Market Analysis Synthesis](/market-analysis)
 
-- **Reference**
-  - [Reference](/03-reference)
+- **Content & Strategy**
+  - [AI Content Examples](/ai-content-examples)
+  - [Ideal Client Profile](/ideal-client-profile)
