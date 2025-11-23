@@ -8,11 +8,11 @@
 
 ## Executive Summary
 
-CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residential and commercial real estate law, uniquely integrated with estate planning services. Our brand architecture is built on a **Service Sophistication Hybrid** positioning: delivering big-firm capabilities with boutique-firm accessibility, anchored by a culture of honest, strategic guidance.
+CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residential and commercial real estate law, uniquely integrated with estate planning services. Our brand architecture is built on a **Responsive Partnership** positioning: delivering sophisticated legal capabilities with direct partner accessibility, anchored by a culture of straightforward, strategic guidance.
 
-**Core Brand Promise:** "Any attorney can tell you what you need to hear. We tell you what you need to know."
+**Core Brand Promise:** "We tell you what you need to know, not just what you want to hear."
 
-**Strategic Brand Position:** The only NYC real estate law firm that brings residential-level service excellence to commercial practice, integrated with estate planning for comprehensive client wealth management.
+**Strategic Brand Position:** NYC's team-oriented real estate law firm that empowers brokers through responsive, hands-on counsel across residential and commercial practice, integrated with estate planning for comprehensive client wealth management.
 
 ---
 
@@ -84,18 +84,18 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 
 **PRIMARY HERO: Commercial Real Estate Broker/Advisor**
 - **External Problem:** Need sophisticated legal counsel for complex commercial transactions
-- **Internal Problem:** Fear of being talked down to by "big ego" attorneys, worry about unresponsiveness, concern about hidden costs
-- **Philosophical Problem:** Commercial brokers deserve the same partnership approach residential brokers get
+- **Internal Problem:** Fear of being talked down to by "big ego" attorneys, worry about unresponsiveness, feeling less empowered than residential brokers
+- **Philosophical Problem:** Commercial brokers deserve to be recognized as the experts and empowered as true partners in the deal
 
 **Guide (CPL):**
-- **Empathy:** "We bring our residential service culture to commercial practice—you deserve accessible, responsive partners."
-- **Authority:** Bank-approved lender lists, national reach, CPA+Attorney expertise (Alan Perlowitz), new leasing capabilities
-- **Proof:** Residential track record proves our service philosophy, commercial credentials prove our sophistication
+- **Empathy:** "We recognize the team approach. You are the expert. This is your deal, this is your baby—we empower you throughout the transaction."
+- **Authority:** Bank-approved lender lists, national reach, financial expertise integration (Alan Perlowitz), sophisticated transaction experience
+- **Proof:** Responsive, hands-on partnership approach without big ego attitudes, proven track record of broker collaboration
 
 **The Plan:**
-1. **Service Sophistication Hybrid:** Big-firm capabilities, boutique accessibility
-2. **Partner-Level Access:** Direct partner involvement, not junior associate delegation
-3. **Proactive Communication:** Updates and guidance throughout the deal lifecycle
+1. **Hands-On Partnership:** Direct partner involvement with responsive communication, no gatekeeping
+2. **Broker Empowerment:** We recognize you as the expert and support your leadership on the deal
+3. **Proactive Communication:** Updates and guidance throughout the deal lifecycle, team-oriented approach
 
 **Call to Action:**
 - **Direct:** "Engage us for your next commercial transaction"
@@ -103,9 +103,9 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 
 **Success Vision:**
 - Complex deals executed smoothly with sophisticated counsel
-- Accessible attorneys who understand your business timeline
-- Your clients view you as connected to top-tier legal talent
-- Partnership-based relationship, not transactional
+- Responsive attorneys who understand your business timeline and empower your expertise
+- Your clients view you as connected to professional, capable legal partners
+- Team-oriented relationship where you're recognized as the expert
 
 **Failure to Avoid:**
 - Getting stuck with junior associates on important deals
@@ -117,13 +117,13 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 
 **SECONDARY HERO: Commercial Client (Investor/Developer/Business Owner)**
 - **External Problem:** Need legal representation for commercial property transaction or lease
-- **Internal Problem:** Anxiety about deal complexity, fear of missing critical details, concern about attorney costs
-- **Philosophical Problem:** Commercial clients deserve sophisticated counsel without sacrificing accessibility
+- **Internal Problem:** Anxiety about deal complexity, fear of missing critical details, concern about attorney costs and responsiveness
+- **Philosophical Problem:** Commercial clients deserve sophisticated counsel with responsive, hands-on service
 
 **Guide (CPL):**
-- **Empathy:** "Commercial deals are complex—you need attorneys who can navigate sophistication while keeping you informed."
-- **Authority:** Alan Perlowitz's CPA+Attorney credentials, bank-approved status, national commercial lending reach
-- **Proof:** Decades of combined experience, integration with estate planning for wealth management
+- **Empathy:** "Commercial deals are complex—you need attorneys who deliver sophisticated guidance while staying accessible and responsive."
+- **Authority:** Financial expertise integration for deal analysis, bank-approved status, national commercial lending reach, decades of transaction experience
+- **Proof:** Proven track record of complex commercial transactions, responsive partner-level service, estate planning integration for wealth management
 
 **The Plan:**
 1. **Strategic Guidance:** Tax implications, estate planning integration, deal structure optimization
@@ -170,18 +170,18 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 ### Firm-Level Positioning
 
 **Primary Positioning Statement:**
-"CPL Law Firm is the only NYC real estate law firm that brings residential-level service excellence to commercial practice, uniquely integrated with estate planning for comprehensive client wealth management. We deliver big-firm sophistication with boutique accessibility, anchored by our commitment to honest, strategic guidance."
+"CPL Law Firm is NYC's team-oriented real estate law firm that empowers brokers through responsive, hands-on partnership across residential and commercial practice, uniquely integrated with estate planning for comprehensive client wealth management. We deliver sophisticated legal capabilities with direct partner accessibility, anchored by our commitment to straightforward, strategic guidance."
 
 **Positioning Pillars:**
-1. **Service Sophistication Hybrid:** Big-firm capabilities + boutique accessibility
-2. **Cross-Practice Superpower:** Residential service culture → Commercial differentiation
+1. **Responsive Partnership:** Direct partner accessibility with hands-on, proactive communication
+2. **Broker Empowerment:** We recognize brokers as the experts and support their deal leadership
 3. **Unique Integration:** Real estate + Estate planning (UNIQUE in market)
-4. **Honest Guidance:** "What you need to know" vs. "what you want to hear"
-5. **Broker-Friendly Culture:** Partnership approach, not transactional
+4. **Straightforward Guidance:** "What you need to know" vs. "what you want to hear"
+5. **Team-Oriented Culture:** Collaborative approach that elevates all parties
 
 **Market Position:**
-- **Versus Residential Boutiques:** More sophisticated (commercial capabilities + estate planning)
-- **Versus Commercial Giants:** More accessible (partner attention + responsive culture)
+- **Versus Residential Specialists:** More comprehensive (commercial capabilities + estate planning)
+- **Versus Commercial Giants:** More responsive (hands-on partner attention + no big ego attitudes)
 - **Versus Full-Service Firms:** More specialized (real estate focus) + more integrated (estate planning)
 
 ---
@@ -216,13 +216,13 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 #### Alan Perlowitz - Commercial Practice Leader
 
 **Positioning Statement:**
-"Alan Perlowitz brings rare CPA+Attorney dual credentials to commercial real estate, delivering sophisticated tax and legal strategy with boutique-firm accessibility. He translates complex commercial transactions into clear strategic guidance, serving clients from local investors to national lending institutions with the same partner-level attention."
+"Alan Perlowitz delivers sophisticated commercial real estate counsel with hands-on accessibility and financial expertise. He translates complex commercial transactions into clear strategic guidance, serving clients from local investors to national lending institutions with responsive, partner-level attention and team-oriented collaboration."
 
 **Brand Pillars:**
-- **Dual-Credential Advantage:** CPA + Attorney expertise (tax + legal integration)
+- **Financial Expertise Integration:** Unique financial analysis capability for complex deal evaluation
 - **Commercial Sophistication:** Bank-approved lists, national lending reach, complex transaction experience
-- **Strategic Advisor:** Tax implications, deal structure optimization, wealth management integration
-- **Accessible Expert:** Big-firm capabilities without "big ego" attitude
+- **Strategic Advisor:** Deal structure optimization, financial review capability, wealth management integration
+- **Hands-On Partner:** Sophisticated capabilities delivered with responsive, no-ego approach
 
 **Voice Characteristics:**
 - Sophisticated but clear, technical but accessible
@@ -232,9 +232,9 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 
 **Content Themes:**
 - Commercial transaction strategy
-- Tax implications of deal structures
+- Financial considerations in deal structures
 - National lending market insights
-- Integration of real estate + estate planning for commercial clients
+- Behind-the-scenes deal stories showing financial expertise in action
 
 ---
 
@@ -242,13 +242,13 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 
 ### Brand Values
 
-1. **HONEST GUIDANCE**
-   - *Principle:* Tell clients what they need to know, not what they want to hear
+1. **STRAIGHTFORWARD GUIDANCE**
+   - *Principle:* Tell clients what they need to know, not just what they want to hear
    - *Behavior:* Proactive issue flagging, transparent communication, strategic advice beyond legal requirements
-   - *Proof Point:* "Any attorney can tell you what you need to hear. We tell you what you need to know."
+   - *Proof Point:* "We tell you what you need to know, not just what you want to hear."
 
-2. **ACCESSIBLE EXPERTISE**
-   - *Principle:* Sophisticated capabilities delivered with boutique accessibility
+2. **RESPONSIVE EXPERTISE**
+   - *Principle:* Sophisticated capabilities delivered with hands-on accessibility
    - *Behavior:* Direct partner contact, same-day response commitment, no gatekeeping
    - *Proof Point:* 85-90% referral-driven practice built on relationship satisfaction
 
@@ -263,9 +263,9 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
    - *Proof Point:* Unique real estate + estate planning offering (no competitors)
 
 5. **SERVICE EXCELLENCE**
-   - *Principle:* Residential-level service culture applied to all practice areas
-   - *Behavior:* Responsive communication, proactive updates, client-centric approach
-   - *Proof Point:* Bringing residential service culture to commercial practice as differentiator
+   - *Principle:* Team-oriented, responsive service culture across all practice areas
+   - *Behavior:* Responsive communication, proactive updates, client-centric and broker-empowering approach
+   - *Proof Point:* Hands-on partnership approach that differentiates from big-firm attitudes
 
 ---
 
@@ -274,12 +274,12 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 ### Brand Promise
 
 **Primary Promise:**
-"Strategic legal guidance you can trust, delivered with the accessibility you deserve."
+"Strategic legal guidance you can trust, delivered with the responsiveness you deserve."
 
 **Supporting Promises:**
-- **To Brokers:** "We make you look good to your clients by delivering exceptional service and proactive communication."
-- **To Residential Clients:** "We guide you through the biggest financial decision of your life with honest advice and clear communication."
-- **To Commercial Clients:** "We deliver sophisticated counsel with boutique accessibility—no big egos, just big expertise."
+- **To Brokers:** "We make you look good to your clients by delivering exceptional service, proactive communication, and empowering you as the expert."
+- **To Residential Clients:** "We guide you through the biggest financial decision of your life with straightforward advice and clear communication."
+- **To Commercial Clients:** "We deliver sophisticated counsel with hands-on accessibility—no big egos, just responsive expertise and team-oriented collaboration."
 
 ---
 
@@ -329,9 +329,9 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
    - *How it sounds:* Forward-looking, contextual, big-picture perspective
    - *Example:* "This transaction sets you up for..." vs. "Here's what you need to sign"
 
-2. **HONEST**
-   - *What it means:* We tell you what you need to know, even if uncomfortable
-   - *How it sounds:* Direct, transparent, proactive about risks
+2. **STRAIGHTFORWARD**
+   - *What it means:* We tell you what you need to know, not just what you want to hear—even when uncomfortable
+   - *How it sounds:* Direct, transparent, candid about risks and realities
    - *Example:* "Here's what concerns me about this deal structure..." vs. avoiding difficult conversations
 
 3. **ACCESSIBLE**
@@ -345,9 +345,9 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
    - *Example:* "Based on our experience..." vs. "We know everything" or tentative uncertainty
 
 5. **PARTNERSHIP-ORIENTED**
-   - *What it means:* Collaborative relationships, not transactional service
-   - *How it sounds:* "We/us" language, relationship focus, broker appreciation
-   - *Example:* "Let's work together to..." vs. "You need to..." or "I'll handle this"
+   - *What it means:* Collaborative relationships, empowering brokers, team-oriented approach
+   - *How it sounds:* "We/us" language, broker empowerment, recognition of their expertise
+   - *Example:* "This is your deal—we're here to support your leadership" vs. "I'll handle this" or directive language
 
 ---
 
@@ -377,10 +377,10 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 ### Level 2: Practice Area Messages
 
 **RESIDENTIAL:**
-"NYC's trusted residential real estate law firm for brokers and homebuyers at all price points—delivering responsive service and honest guidance from transaction to closing."
+"NYC's trusted residential real estate law firm for brokers and homebuyers at all price points—delivering responsive service and straightforward guidance from transaction to closing."
 
 **COMMERCIAL:**
-"Sophisticated commercial real estate counsel with boutique accessibility—bringing our residential service culture to complex transactions, backed by CPA+Attorney expertise and national reach."
+"Sophisticated commercial real estate counsel with hands-on, responsive partnership—empowering brokers through team-oriented collaboration, backed by financial expertise and national reach."
 
 **ESTATE PLANNING:**
 "Integrated estate planning for real estate clients—protecting your property investments and family legacy through seamless coordination with your real estate transactions."
@@ -393,13 +393,13 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 "Your trusted legal partner who makes you look good—responsive communication, proactive guidance, and smooth closings that strengthen your client relationships."
 
 **TO COMMERCIAL BROKERS:**
-"Big-firm sophistication without the big ego—accessible partners who understand your timeline, deliver strategic counsel, and keep you informed throughout complex deals."
+"Sophisticated counsel without the big ego—hands-on partners who empower you as the expert, understand your timeline, and collaborate throughout complex deals."
 
 **TO RESIDENTIAL CLIENTS:**
-"Expert guidance for the biggest financial decision of your life—honest advice, clear communication, and proactive support from contract to closing and beyond."
+"Expert guidance for the biggest financial decision of your life—straightforward advice, clear communication, and proactive support from contract to closing and beyond."
 
 **TO COMMERCIAL CLIENTS:**
-"Strategic commercial real estate counsel integrated with tax expertise—CPA+Attorney credentials delivering sophisticated guidance with partner-level accessibility."
+"Strategic commercial real estate counsel with integrated financial expertise—delivering sophisticated guidance with responsive, partner-level service and team-oriented collaboration."
 
 **TO ATTORNEY RECRUITS:**
 "A different kind of real estate practice—collaborative culture, partner-level mentorship, sophisticated commercial growth opportunities, and work-life balance you won't find at the big firms."
@@ -460,15 +460,15 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 
 #### For Direct Clients (Commercial):
 
-1. **CPA+Attorney Expertise**
-   - Alan Perlowitz's dual credentials (CPA + Attorney)
-   - Tax implications integrated with legal strategy
+1. **Financial Expertise Integration**
+   - Unique financial analysis capability for complex deal evaluation
+   - Financial implications integrated with legal strategy
    - Deal structure optimization for your business goals
 
-2. **Service Sophistication Hybrid**
-   - Big-firm capabilities, boutique accessibility
-   - Partner-level attention on every matter
-   - Sophisticated counsel without the "big ego"
+2. **Hands-On Sophisticated Counsel**
+   - Sophisticated capabilities delivered with responsive, partner-level service
+   - Direct partner attention on every matter
+   - Team-oriented collaboration without the "big ego"
 
 3. **National Reach, Local Focus**
    - Bank-approved lender lists across the country
@@ -484,25 +484,25 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 
 ## Key Brand Narratives
 
-### Narrative #1: The Service Sophistication Story
+### Narrative #1: The Broker Empowerment Story
 
-**Setup:** "Most commercial real estate clients face an impossible choice: hire a big firm with sophisticated capabilities but suffer through 'big ego' attitudes and junior associate delegation, or hire a boutique for accessibility but sacrifice depth of expertise."
+**Setup:** "Most commercial real estate brokers face an impossible choice: work with big firms that have sophisticated capabilities but treat you as secondary, or work with smaller firms that are accessible but lack depth of expertise."
 
-**Conflict:** "Why should you have to choose between sophistication and service?"
+**Conflict:** "Why should you have to choose between sophisticated counsel and being treated like the expert you are?"
 
-**Resolution:** "CPL brings our residential service culture—built on responsiveness, partnership, and honest guidance—to sophisticated commercial practice. You get bank-approved credentials, CPA+Attorney expertise, and national reach, delivered with direct partner access and the accessibility of a boutique firm."
+**Resolution:** "CPL delivers sophisticated commercial counsel—bank-approved credentials, financial expertise, national reach—while recognizing YOU as the expert and empowering your leadership on the deal. We're hands-on partners who understand this is YOUR deal, YOUR baby—we're here to support your success with team-oriented collaboration and responsive service."
 
-**Proof:** "Our residential practice is 85-90% referral-driven because brokers know we make them look good. Now we're bringing that same service philosophy to commercial clients who deserve better than the 'big ego' experience."
+**Proof:** "Our practice is 85-90% referral-driven because brokers know we make them look good. Commercial brokers tell us they feel empowered working with us—no big egos, just responsive partnership that strengthens their client relationships."
 
 ---
 
-### Narrative #2: The Honest Guidance Story
+### Narrative #2: The Straightforward Guidance Story
 
-**Setup:** "Any attorney can tell you what you need to hear—smooth over concerns, rush you through documents, get to the closing."
+**Setup:** "Any attorney can tell you what you want to hear—smooth over concerns, rush you through documents, get to the closing."
 
 **Conflict:** "But what if that 'smooth closing' costs you money long-term? What if the issue they didn't flag becomes a problem after you own the property?"
 
-**Resolution:** "At CPL, we tell you what you need to know, even when it's uncomfortable. We flag issues proactively, we think strategically about long-term implications, and we give you the honest guidance you need to make confident decisions."
+**Resolution:** "At CPL, we tell you what you need to know, not just what you want to hear—even when it's uncomfortable. We flag issues proactively, we think strategically about long-term implications, and we give you straightforward guidance you need to make confident decisions."
 
 **Proof:** "Our clients stay with us for decades because they trust us to protect their interests, not just process transactions. When Andrew or Alan says 'Here's what concerns me about this deal,' you know it's because they're thinking about your long-term success, not just today's closing."
 
@@ -532,15 +532,15 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 
 ---
 
-### Narrative #5: The Cross-Practice Superpower Story
+### Narrative #5: The Orchestra Collaboration Story
 
-**Setup:** "Commercial real estate clients expect sophisticated counsel—bank approvals, complex deal structures, national reach. What they don't expect is exceptional service."
+**Setup:** "Commercial real estate clients expect sophisticated counsel—bank approvals, complex deal structures, national reach. What they don't expect is to be treated as true partners in the deal."
 
-**Conflict:** "Big firms have the credentials but terrible service culture. Boutiques have great service but limited capabilities. Why should you have to choose?"
+**Conflict:** "Some attorneys approach deals like football—every party competing. Others see themselves as superior to their clients and brokers. Why should you have to deal with big egos or adversarial attitudes?"
 
-**Resolution:** "CPL's secret weapon is our residential practice. We've spent decades building a service culture that keeps brokers and clients coming back. Now we're bringing that same approach to commercial—it's our cross-practice superpower."
+**Resolution:** "At CPL, we believe we're part of a larger orchestra—all parties making music together. When we all collaborate harmoniously, deals succeed. We bring sophisticated counsel with team-oriented collaboration, recognizing brokers as experts and empowering their leadership throughout the transaction."
 
-**Proof:** "Ask our commercial clients what sets CPL apart. It's not just Alan's CPA+Attorney credentials or our bank-approved status—it's that we return calls, we explain things clearly, and we treat you like a partner, not a transaction number."
+**Proof:** "Ask our commercial clients what sets CPL apart. It's not just our financial expertise or bank-approved status—it's that we return calls, we explain things clearly, we empower brokers, and we treat everyone like valued partners in creating successful outcomes."
 
 ---
 
@@ -592,16 +592,16 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
    - 25% targets direct clients
    - Content calendar reflects this priority
 
-3. **Cross-Practice Storytelling**
-   - Leverage residential success to differentiate commercial practice
+3. **Integrated Storytelling**
+   - Showcase team-oriented collaboration and broker empowerment across practices
    - Highlight estate planning integration as unique offering
-   - Show sophisticated capabilities with accessible delivery
+   - Show sophisticated capabilities with responsive, hands-on delivery
 
 4. **Proof-Point Driven**
    - 85-90% referral-driven practice (relationship proof)
    - Decades of experience (authority proof)
    - Bank-approved status (credibility proof)
-   - CPA+Attorney credentials (expertise proof)
+   - Financial expertise integration (unique capability proof)
    - Long-term client relationships (satisfaction proof)
 
 ---
@@ -611,9 +611,9 @@ CPL Law Firm (Cenker Perlowitz Luftig) operates at the intersection of residenti
 Every brand touchpoint should reflect:
 
 - [ ] **Strategic thinking** (beyond the transaction)
-- [ ] **Honest guidance** (what you need to know)
-- [ ] **Accessible expertise** (sophisticated but clear)
-- [ ] **Partnership approach** (collaborative, not transactional)
+- [ ] **Straightforward guidance** (what you need to know, not just what you want to hear)
+- [ ] **Responsive expertise** (sophisticated but hands-on and accessible)
+- [ ] **Partnership approach** (collaborative, broker-empowering, team-oriented)
 - [ ] **Service excellence** (responsive, proactive)
 - [ ] **Appropriate sophistication** (residential vs. commercial tone)
 - [ ] **NYC expertise** (local market knowledge)
@@ -632,9 +632,9 @@ Every brand touchpoint should reflect:
 - Content engagement rates
 
 **Perception Metrics:**
-- "Service Sophistication Hybrid" position recognition
-- "Honest guidance" attribute association
-- "Accessible expertise" perception vs. competitors
+- "Responsive Partnership" position recognition
+- "Broker empowerment" and "team-oriented" attribute association
+- "Straightforward guidance" and "hands-on expertise" perception vs. competitors
 - Partner brand recognition (Andrew, Alan)
 
 **Preference Metrics:**
@@ -661,10 +661,10 @@ Every brand touchpoint should reflect:
 - Market perception research indicates position misalignment
 
 **What stays constant:**
-- Core values (honest guidance, accessible expertise, partnership approach)
-- Service culture (residential excellence applied to all practices)
+- Core values (straightforward guidance, responsive expertise, partnership approach)
+- Service culture (team-oriented, hands-on collaboration across all practices)
 - Integration mindset (estate planning + real estate)
-- Broker-partnership focus
+- Broker-empowerment focus
 
 ---
 
@@ -689,6 +689,16 @@ Every brand touchpoint should reflect:
 
 ---
 
-**Last Updated:** November 2, 2025
+**Last Updated:** November 19, 2025 (Major Revision - Post Transcript Feedback)
+**Previous Version:** November 2, 2025
 **Next Review:** May 2026 (6-month cycle)
 **Framework Owner:** Marketing + Partner Leadership
+
+**Revision Notes (Nov 19):**
+- Removed all "boutique" language (replaced with "hands-on," "responsive")
+- Eliminated residential references from commercial messaging
+- Renamed "Honest" voice pillar to "Straightforward"
+- Added broker empowerment theme throughout
+- Integrated orchestra metaphor for collaboration
+- De-emphasized CPA credential (now woven into storytelling)
+- Updated positioning from "Service Sophistication Hybrid" to "Responsive Partnership"

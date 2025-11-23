@@ -10,6 +10,7 @@
 - **Checkpoint Materials**
   - [Week 3 Summary](checkpoint-summary.md)
   - [Meeting Summary - Nov 3](meeting-summary-nov3.md)
+  - [Brand Architecture Revision Summary](brand-architecture-revision-summary.md)
 
 - **Competitive Intelligence**
   - [All 10 Competitors Overview](competitors-overview.md)
@@ -24,3 +25,4 @@
   - [Analytics Baseline Report](website-analytics-baseline.md)
   - [SEO Analysis & Audit](website-seo-analysis.md)
   - [SEO Implementation Plan](seo-implementation-plan.md)
+  - [Google Search Console Brief](google-search-console-brief.md)
